@@ -1,0 +1,142 @@
+[
+ {
+  "question": "How many days of annual leave do I get?",
+  "source": "01-leave-policy.md",
+  "answer_contains": "24 days"
+ },
+ {
+  "question": "How much unused vacation can I carry into next year?",
+  "source": "01-leave-policy.md",
+  "answer_contains": "8 unused days"
+ },
+ {
+  "question": "When do I need a doctor's note?",
+  "source": "01-leave-policy.md",
+  "answer_contains": "longer than 2 consecutive days"
+ },
+ {
+  "question": "How long is paternity leave for a secondary caregiver?",
+  "source": "01-leave-policy.md",
+  "answer_contains": "4 weeks"
+ },
+ {
+  "question": "What is the deadline for filing an expense claim?",
+  "source": "02-expenses.md",
+  "answer_contains": "within 30 days"
+ },
+ {
+  "question": "What is the hotel limit in big cities?",
+  "source": "02-expenses.md",
+  "answer_contains": "7,000 rupees per night"
+ },
+ {
+  "question": "Can I claim drinks at dinner while travelling?",
+  "source": "02-expenses.md",
+  "answer_contains": "Alcohol is not reimbursable"
+ },
+ {
+  "question": "How far in advance should flights be booked?",
+  "source": "02-expenses.md",
+  "answer_contains": "14 days ahead"
+ },
+ {
+  "question": "Which days do we have to be in the office?",
+  "source": "03-remote-work.md",
+  "answer_contains": "Tuesdays and Thursdays"
+ },
+ {
+  "question": "How much money do I get to set up my desk at home?",
+  "source": "03-remote-work.md",
+  "answer_contains": "15,000 rupees"
+ },
+ {
+  "question": "Can I work from abroad for a month?",
+  "source": "03-remote-work.md",
+  "answer_contains": "written approval from HR and Legal"
+ },
+ {
+  "question": "What is the minimum password length?",
+  "source": "04-security.md",
+  "answer_contains": "at least 14 characters"
+ },
+ {
+  "question": "My laptop was stolen, what do I do?",
+  "source": "04-security.md",
+  "answer_contains": "within 1 hour"
+ },
+ {
+  "question": "Where do I send a suspicious email?",
+  "source": "04-security.md",
+  "answer_contains": "security@nimbus.example"
+ },
+ {
+  "question": "How quickly must I respond to a page?",
+  "source": "05-on-call.md",
+  "answer_contains": "within 15 minutes"
+ },
+ {
+  "question": "What counts as a SEV1?",
+  "source": "05-on-call.md",
+  "answer_contains": "customers cannot use the product"
+ },
+ {
+  "question": "How much extra pay is there for weekend on-call?",
+  "source": "05-on-call.md",
+  "answer_contains": "4,000 rupees per weekend day"
+ },
+ {
+  "question": "How many approvals does a billing change need?",
+  "source": "06-code-review.md",
+  "answer_contains": "need two"
+ },
+ {
+  "question": "How fast should reviewers reply to a pull request?",
+  "source": "06-code-review.md",
+  "answer_contains": "within one working day"
+ },
+ {
+  "question": "Are we allowed to release on Friday afternoon?",
+  "source": "07-deployments.md",
+  "answer_contains": "no production deployments on Fridays after 14:00"
+ },
+ {
+  "question": "What error rate triggers an automatic rollback?",
+  "source": "07-deployments.md",
+  "answer_contains": "above 2%"
+ },
+ {
+  "question": "When can I drop a database column?",
+  "source": "07-deployments.md",
+  "answer_contains": "at least one week later"
+ },
+ {
+  "question": "How much is the yearly training budget?",
+  "source": "08-learning.md",
+  "answer_contains": "40,000 rupees"
+ },
+ {
+  "question": "Who pays if I fail a certification exam and retake it?",
+  "source": "08-learning.md",
+  "answer_contains": "employee's own cost"
+ },
+ {
+  "question": "How often are performance reviews held?",
+  "source": "09-performance.md",
+  "answer_contains": "twice a year"
+ },
+ {
+  "question": "When are promotions decided?",
+  "source": "09-performance.md",
+  "answer_contains": "April cycle only"
+ },
+ {
+  "question": "How long is probation?",
+  "source": "10-onboarding.md",
+  "answer_contains": "3 months"
+ },
+ {
+  "question": "What is the notice period after probation ends?",
+  "source": "10-onboarding.md",
+  "answer_contains": "60 days"
+ }
+]
